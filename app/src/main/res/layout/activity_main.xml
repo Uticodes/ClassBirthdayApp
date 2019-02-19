@@ -34,7 +34,8 @@
         android:fontFamily="casual"
         android:text="Happy Birthday"
         android:textColor="#FFFFFF"
-        android:textSize="40dp" />
+        android:textSize="40dp"
+        android:layout_alignParentLeft="true" />
 
     <TextView
         android:id="@+id/Name_text"
